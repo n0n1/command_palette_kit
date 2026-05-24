@@ -6,7 +6,7 @@ Command palette (Alfred/Zed style) for Flutter apps.
 
 | Light theme | Dark theme |
 | --- | --- |
-| ![Command palette in light theme](assets/light-theme.png) | ![Command palette in dark theme](assets/dark-theme.png) |
+| ![Command palette in light theme](https://raw.githubusercontent.com/n0n1/command_palette_kit/main/assets/light-theme.png) | ![Command palette in dark theme](https://raw.githubusercontent.com/n0n1/command_palette_kit/main/assets/dark-theme.png) |
 
 ## Features
 

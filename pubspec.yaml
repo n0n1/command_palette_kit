@@ -2,12 +2,20 @@ name: command_palette_kit
 description: Command palette (Alfred/Zed style) for Flutter apps.
 version: 0.1.0
 homepage: https://1telenk0v.space
+repository: https://github.com/n0n1/command_palette_kit
+issue_tracker: https://github.com/n0n1/command_palette_kit/issues
 
 topics:
   - command-palette
   - shortcuts
   - search
   - flutter
+
+screenshots:
+  - description: Command palette in light theme.
+    path: assets/light-theme.png
+  - description: Command palette in dark theme.
+    path: assets/dark-theme.png
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
