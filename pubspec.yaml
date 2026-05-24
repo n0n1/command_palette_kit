@@ -1,0 +1,28 @@
+name: command_palette_kit
+description: Command palette (Alfred/Zed style) for Flutter apps.
+version: 0.1.0
+homepage: https://1telenk0v.space
+
+topics:
+  - command-palette
+  - shortcuts
+  - search
+  - flutter
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^9.1.1
+  equatable: ^2.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
