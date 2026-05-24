@@ -2,6 +2,12 @@
 
 Command palette (Alfred/Zed style) for Flutter apps.
 
+## Screenshots
+
+| Light theme | Dark theme |
+| --- | --- |
+| ![Command palette in light theme](assets/light-theme.png) | ![Command palette in dark theme](assets/dark-theme.png) |
+
 ## Features
 
 - Searchable command list.
@@ -105,4 +111,5 @@ context.read<CommandPaletteBloc>().add(const ShowCommandPaletteEvent());
 
 ## Example
 
-See the `example/` directory for a minimal Flutter app.
+See the `example/` directory for a full Flutter app with Android, iOS, Linux,
+macOS, web, and Windows scaffolding.
